@@ -1,0 +1,17 @@
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\bin\Debug\Esdnevnik.exe.config
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\bin\Debug\Esdnevnik.exe
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\bin\Debug\Esdnevnik.pdb
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Osoba.resources
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.exe
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.pdb
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Glavna.resources
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Login.resources
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Sifarnik.resources
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Raspodela.resources
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Glavna2.resources
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Ocena.resources
+C:\Users\Korisnik\source\repos\Esdnevnik\Esdnevnik\obj\Debug\Esdnevnik.Upisnica.resources
